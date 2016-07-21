@@ -1,0 +1,6 @@
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Target\bin\Debug\Target.exe.config
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Target\bin\Debug\Target.exe
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Target\bin\Debug\Target.pdb
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Target\obj\Debug\Target.csprojResolveAssemblyReference.cache
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Target\obj\Debug\Target.exe
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Target\obj\Debug\Target.pdb

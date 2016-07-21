@@ -1,0 +1,5 @@
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Weapon\bin\Debug\Weapon.exe.config
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Weapon\bin\Debug\Weapon.exe
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Weapon\bin\Debug\Weapon.pdb
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Weapon\obj\Debug\Weapon.exe
+c:\users\zac\documents\visual studio 2015\Projects\2 Part tool\Weapon\obj\Debug\Weapon.pdb
